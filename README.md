@@ -2,6 +2,7 @@
 
 Aplikasi ini digunakan untuk melakukan pencatatan data barang, transaksi penjualan, retur, stok masuk, serta manajemen data pelanggan dan supplier.
 
+### **LINK WEBSITE** : https://pendataanbarang.space/ 
 ---
 
 ## 📄 `docs/INSTALLATION.md`
